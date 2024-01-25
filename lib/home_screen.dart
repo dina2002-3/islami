@@ -7,6 +7,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.black,
+      padding: const EdgeInsets.all(30),
     );
   }
 }
